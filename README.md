@@ -2,7 +2,9 @@
 # PruebaEstrenarVivienda-api
 
 ## Pasos para ejecutar el proyecto
-
+composer install
+npm install
+s
 ## 0 -- Ejecución inicial
 Tener instalado PHP 7 o superior y Componser
  
